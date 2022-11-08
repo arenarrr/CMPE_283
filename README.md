@@ -20,7 +20,11 @@ for primary procbased, secondary procbased, tertiary procbased, entry and exit c
 4.  we create a directory using the command: mkdir cmpe283-1
 <img width="468" alt="image" src="https://user-images.githubusercontent.com/69696446/200481048-d4a94bb9-c89b-4a53-a529-c9d57594dad3.png">
 
+
+
 Install packages:  
+
+
 
 a.	apt install gcc make
 
@@ -44,7 +48,7 @@ e.	make
 
 <img width="468" alt="image" src="https://user-images.githubusercontent.com/69696446/200481337-6dbd1c31-d8c3-4176-b085-5153366d5354.png">
 
-f.	sudo insmod cmpe283-1.ko!
+f.	sudo insmod cmpe283-1.ko
 g.	dmesg
 
 <img width="468" alt="image" src="https://user-images.githubusercontent.com/69696446/200481443-405239b1-b0e8-4c01-b321-1fa02e1cf3c7.png">
