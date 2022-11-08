@@ -38,6 +38,7 @@ c.	apt install gcc make
 
 
 d.	sudo apt-get install linux-headers-$(uname -r)
+
 e.	make
 
 
